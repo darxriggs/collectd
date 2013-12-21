@@ -10,7 +10,7 @@ Prerequisites
 
 1. You must be using the Git repository of the cookbook, rather than the downloaded cookbook from the RCB Cookbook Channel.
 2. You must have a working Ruby 1.9.3 install.
-3. You must have Vagrant 1.2.2 installed to run the `default-vagrant-*` test kitchens. Earlier 1.1.x versions may also work just fine.
+3. You must have Vagrant 1.4.0 installed to run the `default-vagrant-*` test kitchens. Newer versions may also work just fine.
 4. You must have VirtualBox 4.2.12 installed to run the `default-vagrant-*` test kitchens. Earlier 4.2.x versions may also work just fine.
 5. You must have a Rackspace Public Cloud account, api key, and ssh key to run the `default-rackspace-*` test kitchens.
 
